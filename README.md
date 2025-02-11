@@ -21,25 +21,21 @@ Experience seamless scraping with Bright Data's [New Zealand proxies](https://br
 
 **[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
   
-- **365,400 New Zealand residential IPs**
 - **HTTP(S)/ & SOCKS5 supported**
 - **Global customer support**
 
 **[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
   
-- **32,000 New Zealand datacenter IPs**
 - **0.24s resonse time**
 - **Pay-Per-IP or bandwidth usage**
 
 **[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
   
-- **12,000 New Zealand static residential IPs**
 - **Pay-per-IP or by bandwidth usage**
 - **Fastest response time in the industry**
 
 **[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
   
-- **70,400 New Zealand mobile proxy IPs**
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
